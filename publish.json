@@ -1,0 +1,11 @@
+{
+  "app": {
+    "slug": "image-to-pdf"
+  },
+  "version": {
+    "version_number": "1.3.0",
+    "min_os_version": "Windows 10",
+    "installer": "installer_output/图片转PDF工具-1.3.0-安装包.exe",
+    "release_notes": "同步最新版本，修复若干问题。"
+  }
+}

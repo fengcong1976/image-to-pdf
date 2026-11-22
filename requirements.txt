@@ -1,0 +1,10 @@
+# 运行依赖
+PySide6==6.12.0
+pymupdf==1.28.2
+Pillow==12.3.0
+numpy==2.2.6
+opencv-python-headless==5.0.0.93
+pillow-heif==1.8.1   # 读 iPhone 的 HEIC；装不上也能用，只是 HEIC 会给出明确提示
+
+# 只有打包时才需要（build_exe.bat 会用到）：
+# pyinstaller==6.22.3

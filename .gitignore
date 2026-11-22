@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# 虚拟环境
+venv/
+.venv/
+
+# 打包与构建产物
+build/
+dist/
+*.exe
+*.msi
+*.7z
+*.zip
+安装包/
+
+# IDE
+.idea/
+.vscode/
+
+# 自检与运行产物（不入库）
+verify_samples/
+verify_out*/
+_ui_samples/
+_ui_out/
+_ui_shots/
+_smoke*/
+*.log
+report.json
+_selftest_dev.log
+
+# 日志与临时文件
+*.tmp
+~$*
+# --- 开源发布忽略规则 ---
+msix/
+installer_output/
+verification/
+.screenshots/
+.workbuddy/
+.trae/
+.cache/
+.diag/
+.DS_Store
+_docs_samples/
+_scan_cli_out/
