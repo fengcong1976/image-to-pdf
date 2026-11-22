@@ -12,7 +12,7 @@
 ; Python 运行时 + Qt + OpenCV + PyMuPDF + Pillow，装好即可用，不依赖系统环境。
 
 #define MyAppName "图片转PDF工具"
-#define MyAppVersion "1.3.0"
+#define MyAppVersion "1.3.1"
 #define MyAppPublisher "深圳市创炫互动网络科技有限公司"
 #define MyAppURL "https://www.mrheedu.com"
 #define MyAppExeName "图片转PDF工具.exe"
