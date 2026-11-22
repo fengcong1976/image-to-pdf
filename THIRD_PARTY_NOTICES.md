@@ -18,6 +18,12 @@
 
 > PyMuPDF 采用 AGPL-3.0，因此本应用整体按 AGPL-3.0 发布。
 
+## 其他随包组件
+
+| 组件 | 许可 | 来源 / 源码 |
+|---|---|---|
+| FFmpeg（OpenCV videoio 内置） | LGPL-2.1-or-later | https://ffmpeg.org/ |
+
 ## 许可全文位置
 
 安装目录下的 `LICENSES/` 存放 LGPL-3.0、GPL-3.0、AGPL-3.0 全文及 Qt 声明，
